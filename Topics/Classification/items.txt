@@ -1,7 +1,7 @@
+ClassificationCorrespondenceTable
 ClassificationFamily
+ClassificationIndex
+ClassificationItem
+ClassificationLevel
 ClassificationSeries
 StatisticalClassification
-ClassificationLevel
-ClassificationItem
-ClassificationCorrespondenceTable
-ClassificationIndex
