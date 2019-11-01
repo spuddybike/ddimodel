@@ -1,8 +1,13 @@
-Study
+Admininstration
 Classification
+Comparison
 Data Capture
 Data Description
 Foundational
-Agent
+Geographic
+Grouping
+Schemes
+Study
+Survey Development
 Non-Packaging Items
 All Content Items
