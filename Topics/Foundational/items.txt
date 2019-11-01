@@ -1,6 +1,10 @@
 Category
 CodeList
 Concept
+ConceptualComponent
+Individual
 Organization
-Universe
+Relation
+SubUniverseClass
 UnitType
+Universe
