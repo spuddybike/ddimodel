@@ -1,5 +1,7 @@
 DDIInstance
 DDIProfile
+Group
 LocalHoldingPackage
 OtherMaterial
 ResourcePackage
+StudyUnit
